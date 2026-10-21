@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydata/compilers-webpage/commit/146432378f69e7cecbef24f8eeb508bff0f10237",
       "git:hexsha": "146432378f69e7cecbef24f8eeb508bff0f10237",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
