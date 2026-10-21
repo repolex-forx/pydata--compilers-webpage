@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydata",
+  "repo": "compilers-webpage",
+  "versions": [
+    {
+      "commit": "146432378f69e7cecbef24f8eeb508bff0f10237",
+      "parsed_at": "2026-10-21T20:47:47.913232+00:00",
+      "filetree": "filetree/146432378f69e7cecbef24f8eeb508bff0f10237.nq.gz",
+      "blobs": [
+        "blob/da09685eb8b3d5fbceff79147cb7f42e8f7640fa.nq.gz",
+        "blob/4f52742b7b333c5f3a33366259f866062e6c983d.nq.gz",
+        "blob/219b76fec32df28d99ddc339cf3413ded801f3c1.nq.gz",
+        "blob/478f8b95566b7b444c0440d325274b28c9a113c0.nq.gz",
+        "blob/b3ce5c0d611b4804d31b4c30eedfa9ab9a39a461.nq.gz",
+        "blob/747eb2095ea5e36f82a8fda5b964eb6a1eba6388.nq.gz",
+        "blob/4a701e3c6d22d362081efae8ae365c4531d0dca7.nq.gz",
+        "blob/a4c7f06637fb296866337925bb993f3ad1da7adf.nq.gz",
+        "blob/4f61b7f1bb99b6727cf57a38286292f95d2cb44e.nq.gz",
+        "blob/eb2050fa12e9d7f56e8a3038c2bfe6bc603c8271.nq.gz",
+        "blob/6d1f112c5a6c31f02234ae523910176f0fd32ad2.nq.gz",
+        "blob/daa9ab8543dee583e86a6b9d365e17c269592810.nq.gz",
+        "blob/e254f8f6d4a0f882dacce463c671e524bbd5187b.nq.gz",
+        "blob/3e52b089a222cdfd620809f560a08a3c153c2a92.nq.gz",
+        "blob/daafa9180839e91a5f5a5e96cd560d45c4ac50b4.nq.gz",
+        "blob/3bf6484a29d8da269f9bc874b25493a45fae3bae.nq.gz",
+        "blob/ef6f576b4409d39a9f46fc9c29bc841b9b0d8d3c.nq.gz",
+        "blob/a9969993201f9cee63cf9f49217646347297b643.nq.gz",
+        "blob/f97292bc9df81402876bdca2d633e11d53280f77.nq.gz",
+        "blob/8349aee86de27b035590c9fd80d4583a7c0a7f5a.nq.gz",
+        "blob/ca217d87767bed99503fa34b0b4a740f30606af3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
